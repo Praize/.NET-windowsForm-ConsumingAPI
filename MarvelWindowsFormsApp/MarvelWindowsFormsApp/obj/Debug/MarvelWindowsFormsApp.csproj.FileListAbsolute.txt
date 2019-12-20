@@ -1,0 +1,15 @@
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\MarvelWindowsFormsApp.exe.config
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\MarvelWindowsFormsApp.exe
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\MarvelWindowsFormsApp.pdb
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\Marvel.models.dll
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\Marvel.models.pdb
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.Form1.resources
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.Properties.Resources.resources
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.csproj.CopyComplete
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.exe
+C:\Users\senem\source\repos\MarvelWindowsFormsApp\MarvelWindowsFormsApp\obj\Debug\MarvelWindowsFormsApp.pdb
